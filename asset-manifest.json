@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-chuck-norris-category-api/static/css/main.bd7ac539.chunk.css",
+    "main.js": "/react-chuck-norris-category-api/static/js/main.bc2f7768.chunk.js",
+    "main.js.map": "/react-chuck-norris-category-api/static/js/main.bc2f7768.chunk.js.map",
+    "runtime~main.js": "/react-chuck-norris-category-api/static/js/runtime~main.4b5d7d72.js",
+    "runtime~main.js.map": "/react-chuck-norris-category-api/static/js/runtime~main.4b5d7d72.js.map",
+    "static/css/2.df0a272d.chunk.css": "/react-chuck-norris-category-api/static/css/2.df0a272d.chunk.css",
+    "static/js/2.dbc6c55e.chunk.js": "/react-chuck-norris-category-api/static/js/2.dbc6c55e.chunk.js",
+    "static/js/2.dbc6c55e.chunk.js.map": "/react-chuck-norris-category-api/static/js/2.dbc6c55e.chunk.js.map",
+    "index.html": "/react-chuck-norris-category-api/index.html",
+    "precache-manifest.b10f9878d46a1b855bd3013170c9eb0a.js": "/react-chuck-norris-category-api/precache-manifest.b10f9878d46a1b855bd3013170c9eb0a.js",
+    "service-worker.js": "/react-chuck-norris-category-api/service-worker.js",
+    "static/css/2.df0a272d.chunk.css.map": "/react-chuck-norris-category-api/static/css/2.df0a272d.chunk.css.map",
+    "static/css/main.bd7ac539.chunk.css.map": "/react-chuck-norris-category-api/static/css/main.bd7ac539.chunk.css.map",
+    "static/media/application.svg": "/react-chuck-norris-category-api/static/media/application.95605289.svg"
+  }
+}
